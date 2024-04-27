@@ -1,0 +1,86 @@
+---
+title: Homework 8 - mobile app storyboard
+author: <your name goes here>
+date: last-modified
+format:
+  html:
+    toc: true
+    embed-resources: true
+    theme: cosmo
+---
+
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw7-template)
+
+* [LINK to FIGMA](https://github.com/cmsc-vcu/cmsc475-sp2024-hw7-template)
+
+[Replace the text in each of the sections below with information about an application that you'd like to pitch and build.  Feel free to include figures or pictures to emphasize or reinforce your arguments.]
+
+[You can delete this front part of the document. ]
+
+
+[
+For this assignment, you're creating a storyboard for the application you pitched last week.
+Creating a new mobile application is a process, not magic. 
+A storyboard helps communicate what your application is going to do.
+Creating a storyboard is an iterative process.  You create the storyboard, then "try" using it as a user, and then "revise it" 
+as necessary.
+]
+
+[For this assignment, you're also creating low-fidelity wireframes of each of the screens in your application,
+including the settings screen.
+These low-fidelity wireframes will serve as models for your subsequent coding of the application.
+]
+
+NOTE - you are writing this document for YOU, that is, your future self!  You will be coding this application.
+When you code, you head gets into the details and you forget the big picture.
+
+THIS DOCUMENT is the BIG PICTURE. When coding gets tough and you're not sure what to do next, you'll be referring
+back to this document to get back on track.
+
+As you gain experience, you'll have a better sense how to complete this document to help your future self.  For now, JUST GO FOR IT!
+
+# Overview of (Name of application)
+
+[provide a brief description of your app.  You can use info from last week's pitch.]
+
+# Key features
+
+[expand on the key features that you described in the previous assignment.]
+
+# User Experience Overview
+
+[Describe the user interface and user experience design principles that will be applied in the app.
+Explain how the design elements and interactions will create an intuitive and enjoyable user experience. ]
+
+[Include a detailed storyboard showing how a user might navigate through the application.]
+
+[If your application supports different kinds of users, provide alternate paths through the storyboard.]
+
+[You'll want to include individual PNG files that ROUGHLY show how each screen in your application will look.
+This will help your coding.]
+
+
+# Individual Screen details
+
+The following section documents the individual screens of the application, the elements on each screen,
+and how the user is expected to interact with the screen.
+
+## Opening screen 
+
+[image and description. What may be important to remember when you code this?]
+
+## Main screen
+
+[image and description. What may be important to remember when you code this?]
+
+## Other screens as necessary
+
+[image and description. What may be important to remember when you code this?]
+
+
+# Reflection
+
+* What was the easiest part of this assignment?
+* What is the hardest part of this assignment?
+* Comment on how your storyboard and wireframing experience in the dynamic calling card prepared your for this assignment.
+* What could we have covered in class to better prepare you for this assignment?
