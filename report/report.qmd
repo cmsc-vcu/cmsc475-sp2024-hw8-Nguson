@@ -1,6 +1,6 @@
 ---
 title: Homework 8 - mobile app storyboard
-author: <your name goes here>
+author: Minh Nguyen
 date: last-modified
 format:
   html:
@@ -9,55 +9,24 @@ format:
     theme: cosmo
 ---
 
-* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw7-template)
+* [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw8-Nguson)
 
-* [LINK to FIGMA](https://github.com/cmsc-vcu/cmsc475-sp2024-hw7-template)
-
-[Replace the text in each of the sections below with information about an application that you'd like to pitch and build.  Feel free to include figures or pictures to emphasize or reinforce your arguments.]
-
-[You can delete this front part of the document. ]
+* [LINK to FIGMA](https://www.figma.com/file/qZ6HFTyEHQbNycbHetwio9/TrackerDex?type=design&node-id=0%3A1&mode=design&t=AtZzC0RydJngUbwz-1)
 
 
-[
-For this assignment, you're creating a storyboard for the application you pitched last week.
-Creating a new mobile application is a process, not magic. 
-A storyboard helps communicate what your application is going to do.
-Creating a storyboard is an iterative process.  You create the storyboard, then "try" using it as a user, and then "revise it" 
-as necessary.
-]
+# Overview of TrackerDex
 
-[For this assignment, you're also creating low-fidelity wireframes of each of the screens in your application,
-including the settings screen.
-These low-fidelity wireframes will serve as models for your subsequent coding of the application.
-]
-
-NOTE - you are writing this document for YOU, that is, your future self!  You will be coding this application.
-When you code, you head gets into the details and you forget the big picture.
-
-THIS DOCUMENT is the BIG PICTURE. When coding gets tough and you're not sure what to do next, you'll be referring
-back to this document to get back on track.
-
-As you gain experience, you'll have a better sense how to complete this document to help your future self.  For now, JUST GO FOR IT!
-
-# Overview of (Name of application)
-
-[provide a brief description of your app.  You can use info from last week's pitch.]
+TrackerDex is a manga browser and chapter recorder that allows users to bookmark their favourite comics and browse for new ones!
 
 # Key features
 
-[expand on the key features that you described in the previous assignment.]
+The app will have a few tabs that have defined functionality such Library, Browse, Recent.
 
 # User Experience Overview
 
-[Describe the user interface and user experience design principles that will be applied in the app.
-Explain how the design elements and interactions will create an intuitive and enjoyable user experience. ]
+There will be a navigation menu that users can use to navigate to each tab
 
-[Include a detailed storyboard showing how a user might navigate through the application.]
-
-[If your application supports different kinds of users, provide alternate paths through the storyboard.]
-
-[You'll want to include individual PNG files that ROUGHLY show how each screen in your application will look.
-This will help your coding.]
+The user would only have to click on one of the named tabs and easily switch to whatever they are looking for.
 
 
 # Individual Screen details
@@ -67,20 +36,27 @@ and how the user is expected to interact with the screen.
 
 ## Opening screen 
 
-[image and description. What may be important to remember when you code this?]
+![Opening Screen](/assets/Openign.png)
 
 ## Main screen
 
-[image and description. What may be important to remember when you code this?]
+![Main menu](/assets/main%20menu.png)
 
 ## Other screens as necessary
 
-[image and description. What may be important to remember when you code this?]
+![Browse](/assets/Browse.png)
 
+![Library](/assets/Library.png)
+
+![Navigation](/assets/Navigation.png)
 
 # Reflection
 
 * What was the easiest part of this assignment?
+    Wireframing the design
 * What is the hardest part of this assignment?
+    Coming up with a navigation system for the design
 * Comment on how your storyboard and wireframing experience in the dynamic calling card prepared your for this assignment.
+    It made it easier to prepare my navigation system
 * What could we have covered in class to better prepare you for this assignment?
+    Im not sure, it was all based on some outside influence.
